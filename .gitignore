@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+.next/
+out/
+build/
+*.log
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# React
+.DS_Store
+*.env
+*.env.*
+coverage/
+.vscode/
+.idea/
+*.lock
+
+# C# binaries
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.obj
+*.bin
+*.user
+*.cache
+
+# General
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+*.log.*
+
+# Ignore OS-specific files
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,24 @@
+{
+  "name": "falpaca-mouse-brushes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.3",
+    "autoprefixer": "latest",
+    "next": "latest",
+    "postcss": "^8.5.3",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^4.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}
