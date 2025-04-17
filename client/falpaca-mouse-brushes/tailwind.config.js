@@ -1,3 +1,4 @@
+const defaultTheme = require('tailwindcss/defaultTheme');
 
 module.exports = {
   content: [
@@ -10,8 +11,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter'],
-        barlow: ['Barlow Condensed'],
+        sans: ['Inter', ...defaultTheme.fontFamily.sans],
+        barlow: ['Barlow', ...defaultTheme.fontFamily.serif],
       },
     }
   },
