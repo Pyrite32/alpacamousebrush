@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patri\\Programming\\alpacamousebrush\\backend\\FalpacaMouseBrushes\\FalpacaMouseBrushes.csproj",
+      "projectUniqueName": "C:\\Users\\patri\\Programming\\alpacamousebrush\\serverside\\FalpacaMouseBrushes.csproj",
       "projectName": "FalpacaMouseBrushes",
-      "projectPath": "C:\\Users\\patri\\Programming\\alpacamousebrush\\backend\\FalpacaMouseBrushes\\FalpacaMouseBrushes.csproj",
+      "projectPath": "C:\\Users\\patri\\Programming\\alpacamousebrush\\serverside\\FalpacaMouseBrushes.csproj",
       "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patri\\Programming\\alpacamousebrush\\backend\\FalpacaMouseBrushes\\obj\\",
+      "outputPath": "C:\\Users\\patri\\Programming\\alpacamousebrush\\serverside\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
