@@ -44,3 +44,4 @@ coverage/
 # Ignore OS-specific files
 Thumbs.db
 Desktop.ini
+clientside/next-env.d.ts
