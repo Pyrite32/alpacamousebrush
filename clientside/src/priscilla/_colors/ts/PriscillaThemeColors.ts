@@ -1,19 +1,22 @@
 import * as CSS from 'csstype';
 
 type PriscillaThemeColor = CSS.Property.Color | undefined;
-
 export interface PriscillaThemeColors {
     primary: PriscillaThemeColor;
     secondary: PriscillaThemeColor;
     tertiary: PriscillaThemeColor;
-    lighter: PriscillaThemeColor;
-    lightest: PriscillaThemeColor;
+    disabled: PriscillaThemeColor;
     background: PriscillaThemeColor;
-    backgroundLighter: PriscillaThemeColor;
-    backgroundRim: PriscillaThemeColor;
-    accent: PriscillaThemeColor;
+    containerBackground: PriscillaThemeColor;
+    containerRim: PriscillaThemeColor;
+    accentSelected: PriscillaThemeColor;
     accentInfo: PriscillaThemeColor;
+    accentInfoBackdrop: PriscillaThemeColor;
     accentGood: PriscillaThemeColor;
-    accentBad: PriscillaThemeColor;
+    accentGoodBackdrop: PriscillaThemeColor;
+    accentUrgent: PriscillaThemeColor;
+    accentUrgentBackdrop: PriscillaThemeColor;
     accentWarn: PriscillaThemeColor;
+    accentWarnBackdrop: PriscillaThemeColor;
+    accentSelectedBackdrop: PriscillaThemeColor;
 }
