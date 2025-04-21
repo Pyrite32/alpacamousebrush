@@ -12,8 +12,10 @@
     "autoprefixer": "latest",
     "next": "latest",
     "postcss": "^8.5.3",
+    "radix-ui": "^1.3.3",
     "react": "latest",
     "react-dom": "latest",
+    "tailwind-variants": "^1.0.0",
     "tailwindcss": "^4.1.3"
   },
   "devDependencies": {
