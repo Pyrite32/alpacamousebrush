@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FalpacaMouseBrushes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+405ce6a43663802702ee9baa09d3a8fa14b4b8cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca97c49114b593a25532d87b03cc1d4e89de1e78")]
 [assembly: System.Reflection.AssemblyProductAttribute("FalpacaMouseBrushes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FalpacaMouseBrushes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
