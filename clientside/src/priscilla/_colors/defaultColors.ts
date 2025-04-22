@@ -16,8 +16,8 @@ const defaultColors: PriscillaThemeColors = {
     accentWarnBackdrop: "#89463266",
     accentUrgent: "#F2257E",
     accentUrgentBackdrop: "#76378B66",
-    accentGood: "#B5C558",
-    accentGoodBackdrop: "#46715A66",
+    accentSuccess: "#B5C558",
+    accentSuccessBackdrop: "#46715A66",
 }
 
 export default defaultColors;
