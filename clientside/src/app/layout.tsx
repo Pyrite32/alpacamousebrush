@@ -15,10 +15,14 @@ export default function RootLayout({
     <html lang="en"
     cz-shortcut-listen="true"
     >
-      <body>
-        <Navigation></Navigation>
-        {children}
-        </body>
+      <body className="flex flex-col h-screen">
+        <div className="my-2">
+          <Navigation></Navigation>
+        </div>
+        <main className="grow">
+          {children}
+        </main>
+      </body>
     </html>
   )
 }
