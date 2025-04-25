@@ -1,5 +1,6 @@
 import Navigation from "../components/Navigation"
 import '../../index.css'
+import NoiseOverlay from "../components/NoiseOverlay/NoiseOverlay"
 
 export const metadata = {
   title: 'Next.js',
@@ -15,7 +16,8 @@ export default function RootLayout({
     <html lang="en"
     cz-shortcut-listen="true"
     >
-      <body className="flex flex-col h-screen">
+      <body className="flex flex-col h-screen relative">
+        <NoiseOverlay/>
         <div className="my-2">
           <Navigation></Navigation>
         </div>
