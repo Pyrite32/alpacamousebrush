@@ -17,7 +17,7 @@ export default function RootLayout({
     cz-shortcut-listen="true"
     >
       <body className="flex flex-col h-screen relative">
-        <NoiseOverlay/>
+        {/* <NoiseOverlay/> */}
         <div className="my-2">
           <Navigation></Navigation>
         </div>

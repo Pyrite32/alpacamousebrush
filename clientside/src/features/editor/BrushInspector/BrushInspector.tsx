@@ -1,4 +1,5 @@
 import BrushInspectorTabSelection from "./Category/BrushInspectorTabSelection/BrushInspectorTabSelection";
+import GeneralCategory from "./Category/GeneralCategory/GeneralCategory";
 
 export default function BrushInspector() {
     return (
@@ -8,7 +9,7 @@ export default function BrushInspector() {
             </h2>
             <section>
                 <BrushInspectorTabSelection />
-                
+                <GeneralCategory />
             </section>
         </article>
     );

@@ -1,6 +1,6 @@
 export default function BrushInspectorTabSelection() {
     return (
-        <div className="relative w-11/12 mx-auto">
+        <div className="relative w-11/12 mx-auto mb-3">
             <ul className="flex flex-row justify-between">
                 <li>
                     <h4>
